@@ -10,3 +10,6 @@
 [submodule "lib/curation-protocol"]
 	path = lib/curation-protocol
 	url = https://github.com/public-assembly/curation-protocol
+[submodule "lib/nft-drops-extensions"]
+	path = lib/nft-drops-extensions
+	url = https://github.com/ourzora/nft-drops-extensions
